@@ -10,6 +10,8 @@ end
 gem 'rails', '~> 5.1.4'
 
 gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
